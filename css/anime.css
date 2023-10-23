@@ -10,7 +10,7 @@
 
 html,
 body {
-    background-color: #282828;
+    background-color: #db310f;
 }
 
 header {
@@ -18,7 +18,7 @@ header {
 }
 
 footer {
-    background: #eb3349;
+    background: #eb8f33;
     display: flex;
     flex-wrap: nowrap;
     align-content: center;
